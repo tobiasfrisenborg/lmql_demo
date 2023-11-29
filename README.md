@@ -1,5 +1,4 @@
 # LMQL Demo
-**Product lab, Systematic**  
 Tobias Frisenborg Christensen, AI/ML Engineer - tfc@systematic.com  
 
 The examples folder holds a few Jupyter notebooks with various examples.
