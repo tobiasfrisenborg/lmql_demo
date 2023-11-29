@@ -1,0 +1,9 @@
+accelerate
+bitsandbytes
+lmql
+lmql[hf]
+nest_asyncio
+openai
+python-dotenv
+scipy
+transformers
